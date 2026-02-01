@@ -21,6 +21,10 @@ In an age of techno-feudalism, where digital platforms have replaced markets wit
 |------|-------------|
 | [nsrt](https://github.com/Citizen-Infra/nsrt) | Novi Sad Relational Tech — neighborhood tools for Novi Sad residents |
 
+## Open Source Standards
+
+All CIBC projects follow open-source best practices from [Producing Open Source Software](https://producingoss.com/en/producingoss.html) by Karl Fogel. We audit project health using [`claude-audit-oss`](https://github.com/zhiganov/claude-audit-oss) — a 60-item checklist covering documentation, contributor experience, governance, licensing, and more. New projects should be audited before their first public release.
+
 ## Part of a Larger Ecosystem
 
 The Citizen Infrastructure Builders Club connects with organizations working to strengthen citizen agency: [Metagov](https://metagov.org/), [Newspeak House](https://newspeak.house/), [Civic Tech Field Guide](https://directory.civictech.guide/), [Life Itself](https://lifeitself.org/), and the [Relational Tech Project](https://www.relationaltechproject.org/) among others.
