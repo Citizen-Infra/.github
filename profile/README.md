@@ -21,6 +21,7 @@ In an age of techno-feudalism, where digital platforms have replaced markets wit
 |------|-------------|
 | [my-community](https://github.com/Citizen-Infra/my-community) | Community dashboard Chrome extension — Bluesky feed, curated digest, participation opportunities |
 | [dear-neighbors](https://github.com/Citizen-Infra/dear-neighbors) | Neighborhood dashboard Chrome extension — community-curated local news + participation opportunities |
+| [community-admin](https://github.com/Citizen-Infra/community-admin) | Admin platform for community organizers — self-service onboarding, event management, Harmonica integration |
 | [nsrt](https://github.com/Citizen-Infra/nsrt) | Novi Sad Relational Tech — neighborhood tools for Novi Sad residents |
 
 ## Open Source Standards
