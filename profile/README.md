@@ -22,9 +22,8 @@ In an age of techno-feudalism, where digital platforms have replaced markets wit
 | [my-community](https://github.com/Citizen-Infra/my-community) | Community dashboard Chrome extension — Bluesky feed, curated digest, participation opportunities |
 | [dear-neighbors](https://github.com/Citizen-Infra/dear-neighbors) | Neighborhood dashboard Chrome extension — community-curated local news + participation opportunities |
 | [community-admin](https://github.com/Citizen-Infra/community-admin) | Admin platform for community organizers — self-service onboarding, event management, Harmonica integration |
-| [nsrt](https://github.com/Citizen-Infra/nsrt) | Novi Sad Relational Tech — neighborhood tools for Novi Sad residents |
+| [avails](https://github.com/Citizen-Infra/avails) | ATProto-powered group scheduling — open-source LettuceMeet alternative |
 | [open-collective-mcp](https://github.com/Citizen-Infra/open-collective-mcp) | MCP server for managing Open Collective pages via GraphQL API — profiles, updates, projects, tiers, finances, members |
-| [navidrome-jam](https://github.com/Citizen-Infra/navidrome-jam) | Community music server — shared listening and music discovery for local communities |
 
 ## Open Source Standards
 
